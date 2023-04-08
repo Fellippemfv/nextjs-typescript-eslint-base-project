@@ -1,6 +1,6 @@
 "use client"
 import styles from './page.module.css';
-import { useState, ChangeEvent, useEffect, useMemo } from 'react';
+import { useState } from 'react';
 
 export default function Home() {
 
