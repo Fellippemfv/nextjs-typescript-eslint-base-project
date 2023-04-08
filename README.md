@@ -1,4 +1,4 @@
-<h1 align="center">Basis for ReactJS with NextJs projects</h1>
+<h1 align="center">Basis for ReactJS with NextJS projects</h1>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Fellippemfv/nest-prisma-swagger-docker-base-project">
@@ -30,6 +30,8 @@
 
 On this basis for projects, we use ReactJS with Next.js for the frontend, TypeScript for typing code, along with ESLint and Prettier for code linting, we use css modules for CSS, and can be deployed using Vercel, which provides easy deployment and scalability.
 
+<br>
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
@@ -40,6 +42,8 @@ This project was developed with the following technologies:
 - [Typescript](https://www.typescriptlang.org/docs/)
 - [Eslint](https://eslint.org/docs/latest/)
 - [Prettier](https://prettier.io/docs/en/options.html)
+
+<br>
 
 ## :information_source: How to use
 
@@ -74,6 +78,7 @@ Use the build command to test the production version of the application.
 npm run build
 ```
 You should use this command before deploying the application, as any errors will be alerted for correction.
+
 <br>
 
 ## :memo: License
