@@ -1,18 +1,18 @@
 <h1 align="center">Basis for ReactJS with NextJS projects</h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Fellippemfv/nest-prisma-swagger-docker-base-project">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Fellippemfv/reactjs-nextjs-eslint-typescript-cssmodules-base-project">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Fellippemfv/nest-prisma-swagger-docker-base-project?color=red">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Fellippemfv/reactjs-nextjs-eslint-typescript-cssmodules-base-project?color=red">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Fellippemfv/nest-prisma-swagger-docker-base-project?color=yellow">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Fellippemfv/reactjs-nextjs-eslint-typescript-cssmodules-base-project?color=yellow">
 
-  <a href="https://github.com/Fellippemfv/nest-prisma-swagger-docker-base-project/commits/master">
-   <img alt="last-commit" src="https://img.shields.io/github/last-commit/Fellippemfv/nest-prisma-swagger-docker-base-project">
+  <a href="https://github.com/Fellippemfv/reactjs-nextjs-eslint-typescript-cssmodules-base-project/commits/master">
+   <img alt="last-commit" src="https://img.shields.io/github/last-commit/Fellippemfv/reactjs-nextjs-eslint-typescript-cssmodules-base-project">
   </a>
 
-  <a href="https://github.com/Fellippemfv/nest-prisma-swagger-docker-base-project/blob/master/LICENSE.md">
-   <img alt="GitHub/license" src="https://img.shields.io/github/license/Fellippemfv/nest-prisma-swagger-docker-base-project">
+  <a href="https://github.com/Fellippemfv/reactjs-nextjs-eslint-typescript-cssmodules-base-project/blob/master/LICENSE.md">
+   <img alt="GitHub/license" src="https://img.shields.io/github/license/Fellippemfv/reactjs-nextjs-eslint-typescript-cssmodules-base-project">
   </a>
 </p>
 
@@ -51,10 +51,10 @@ To clone and run this application, you will need [Git](https://git-scm.com), [No
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Fellippemfv/nextjs-typescript-eslint-base-project.git
+$ git clone https://github.com/Fellippemfv/reactjs-nextjs-eslint-typescript-cssmodules-base-project.git
 
 # Go to the created folder
-$ cd nextjs-typescript-eslint-base-project
+$ cd reactjs-nextjs-eslint-typescript-cssmodules-base-project
 
 # install dependencies
 $ npm install
@@ -83,6 +83,6 @@ You should use this command before deploying the application, as any errors will
 
 ## :memo: License
 
-This project is under the MIT license. See [LICENSE](https://github.com/Fellippemfv/nest-prisma-project-concepts/blob/master/LICENSE.md) for more information.
+This project is under the MIT license. See [LICENSE](https://github.com/Fellippemfv/reactjs-nextjs-eslint-typescript-cssmodules-base-project/blob/master/LICENSE.md) for more information.
 
 ---
